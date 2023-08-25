@@ -16,8 +16,11 @@
 ## About
 
 This project was mainly inspired by my group's project for completion of our web Full-stack course: Dev's Beer.
+
 At first I wanted to recreate the project in React and SQL, as the original was made with Node and EJS. But then I dropped the beer idea to incorporate my desire of finding a good juice selling store. The database will migrate from SQL to NoSQL with MongoDB.
+
 Currently the working project is on the DEVELOP branch, the main branch is currently a mess and empty due to errors in my local machine. WORKING ON IT TO FIX IT.
+
 The Juice Bar is a WIP at the moment, being refactored as I finished my redux course and learned some new coding tools I want to add and clean up my code.
 
 ## Getting Started
